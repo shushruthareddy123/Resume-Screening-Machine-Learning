@@ -2,7 +2,7 @@
 
 A complete ML project that screens and ranks resumes against job descriptions using two approaches:
 - TF-IDF + Cosine Similarity - fast, keyword driven
-- Sentence-BERT** - semantic, context aware
+- Sentence-BERT - semantic, context aware
 
 ---
 
